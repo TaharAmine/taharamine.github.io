@@ -1,7 +1,6 @@
 - layout: top-middle
   name: Cross Site Scripting ‘XSS’ in a Nutshell
   link: https://dl.packetstormsecurity.net/papers/general/xss-in-a-nutshell.pdf
-  #github: username/repository
   quote: >
     Cross Site Scripting ‘XSS’ in a Nutshell - Security Paper, published by the well known exploits and security papers archive: 'Exploit-DB' by OffSec 'Offensive Security, LTD'.
   #description: | # this will include new lines to allow paragraphs
@@ -10,7 +9,6 @@
 - layout: top-middle
   name: Details and Information to Share About Corona Virus (COVID-19)
   link: https://telegra.ph/Details-and-Information-to-Share-About-Corona-Virus-COVID-19-05-08
-  #github: username/repository
   quote: >
     This article contains different information that was mistaken by the Media and the NEWS worldwide concerning CoronaVirus (COVID-19).
   #description: | # this will include new lines to allow paragraphs
@@ -19,12 +17,10 @@
 - layout: top-middle
   name: Cybercriminalité la Sécurité de l’Information Sous la Loupe
   link: https://www.algerie62.com/cybercriminalite-la-securite-de-linformation-sous-la-loupe/
-  #github: username/repository
   quote: >
     The following article has been written by "Algérie62" (Algerian NEWS Website), during an interview at 'SECURA 2020 - International Safety & SecurityTradeshow in North Africa - The largest Safety & Security event in North Africa'.
   description: | # this will include new lines to allow paragraphs
     Secondé par Tahar Amine El Houari, consultant dans le domaine de la sécurité informatique, revient dans quelques détails relatifs au domaine de la sécurité de l’information. « Il y’a très peu de gens et d’organismes qui connaissent vraiment l’importance de la sécurité de l’information. La sécurité de l’information, c’est la force de frappe de tous les pays et entreprises économiques et financière qui se protègent contre les attaques de toutes envergures ».
-#I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
 
 - layout: top-middle
   name: Awesome Curated List Of Environments And Platforms For Hacking And CTFs!
