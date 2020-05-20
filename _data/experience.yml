@@ -1,9 +1,95 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
+  company: Micro Expert - Cyber Security
+  link: https://www.micro-expert.com/
+  job_title: Head of Cyber Security
+  dates: January 2020 - Present
+  quote: >
+ #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+ #   Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+- layout: left
+  company: HackerOne
+  link: https://hackerone.com/
+  job_title: Security Researcher - Bug Bounty Hunter
   dates: November 2017 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+ #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+ #   Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+- layout: left
+  company: Strategic Business
+  link: 
+  job_title: Director of Information Technology & Security
+  dates: May 2018 - Present
+  quote: >
+ #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+ #   Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+- layout: left
+  company: Cybrary
+  link: https://cybrary.it/
+  job_title: Cyber Security Teaching Assisstant
+  dates: December 2019 - April 2020
+  quote: >
+ #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+ #   Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+- layout: left
+  company: Government Sector
+  link: CONFIDENTIAL
+  job_title: Cyber Security Specialist
+  dates: February 2019 - October 2019
+  quote: >
+ #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+ #   Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+- layout: left
+  company: Divona & SLC (Smart Link Communication)
+  link: https://fr.wikipedia.org/wiki/Smart_Link_Communication
+  job_title: Chief of Cyber Security Projects
+  dates: March 2018 - October 2019
+  quote: >
+ #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+ #   Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+- layout: left
+  company: Taghellist Technology
+  link: 
+  job_title: Lead Penetration Tester
+  dates: April 2017 - May 2018
+  quote: >
+ #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+ #   Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+- layout: left
+  company: ILM Center
+  link: http://ilm-center.net/
+  job_title: Etthical Hacking Instructor
+  dates: November 2017 - January 2018
+  quote: >
+ #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+ #   Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+
+
+
+#- layout: left (options: left, right, top, top-right, top-middle)
+#  company: Company name
+#  link: Link to company (optional)
+#  jobs:
+#    - title: Job title 1
+#      dates: Date Range (eg. November 2016 - present)
+#    - title: Job title 2
+#      dates: Date Range (eg. January 2015 - November 2016)
+#  quote: >
+#   Short description of the company (optional)
+#  description: | # this will include new lines to allow paragraphs
+#    Description of role
