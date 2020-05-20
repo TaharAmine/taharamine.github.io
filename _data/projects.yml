@@ -27,74 +27,73 @@
 #I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
 
 - layout: top-middle
-  name: Cross Site Scripting ‘XSS’ in a Nutshell
-  link: https://dl.packetstormsecurity.net/papers/general/xss-in-a-nutshell.pdf
+  name: Awesome Curated List Of Environments And Platforms For Hacking And CTFs!
+  link: https://mrtaharamine.blogspot.com/2018/02/hacking-environments-and-platforms.html
   #github: username/repository
   quote: >
-    Cross Site Scripting ‘XSS’ in a Nutshell - Security Paper, published by the well known exploits and security papers archive: 'Exploit-DB' by OffSec 'Offensive Security, LTD'.
+    Lot of people think that hacking and security is all about reading books and watching tutorials! But unfortunately that is completely wrong! Since, you are into a field related to IT you'll need to practice a lot. Practicing things you learn will develop your skills to the next level!
   #description: | # this will include new lines to allow paragraphs
   #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
 
 - layout: top-middle
-  name: Cross Site Scripting ‘XSS’ in a Nutshell
-  link: https://dl.packetstormsecurity.net/papers/general/xss-in-a-nutshell.pdf
+  name: Top 10 Best Linux Distro Operating Systems For Ethical Hacking & Penetration Testing – 2020
+  link: https://gbhackers.com/top-10-penetration-testing-ethical-hacking-linux-distributions/
   #github: username/repository
   quote: >
-    Cross Site Scripting ‘XSS’ in a Nutshell - Security Paper, published by the well known exploits and security papers archive: 'Exploit-DB' by OffSec 'Offensive Security, LTD'.
+    I created this article back in 2017 when I was a 'Security Blogger' at GBHackers. Today it is owned by them!
+  description: | # this will include new lines to allow paragraphs
+  #  I created this article back in 2017 when I was a 'Security Blogger' at GBHackers. Today it is owned by them!
+
+- layout: top-middle
+  name: Cyber Security - Capture The Flag (CTF)
+  link: https://mrtaharamine.blogspot.com/2017/08/CTF.html
+  #github: username/repository
+  quote: >
+    Cyber Security is a high priority of companies & governments. Cyber Attacks & Breaches have been on the rise in the last years. By that Security Professionals have been through rigorous training as how HACKERS are able to get into companies & govs infrastructures and how to defend against them.
   #description: | # this will include new lines to allow paragraphs
   #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
 
 - layout: top-middle
-  name: Cross Site Scripting ‘XSS’ in a Nutshell
-  link: https://dl.packetstormsecurity.net/papers/general/xss-in-a-nutshell.pdf
+  name: SyntaxDB: Professional Programming Search Engine for Developers
+  link: https://securityonline.info/syntaxdb-search-engine-developerssyntaxdb-programming-syntax-database/
   #github: username/repository
   quote: >
-    Cross Site Scripting ‘XSS’ in a Nutshell - Security Paper, published by the well known exploits and security papers archive: 'Exploit-DB' by OffSec 'Offensive Security, LTD'.
+    SyntaxDB appeals to a wannabe programmer with its clean UI and simple usage. You just need to enter a language or a concept and SyntaxDB throws up the relevant answers.
   #description: | # this will include new lines to allow paragraphs
   #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
 
 - layout: top-middle
-  name: Cross Site Scripting ‘XSS’ in a Nutshell
-  link: https://dl.packetstormsecurity.net/papers/general/xss-in-a-nutshell.pdf
+  name: Cross Site Request Forgery [CSRF-XSRF] Vulnerability
+  link: https://www.cybrary.it/blog/0p3n/cross-site-request-forgery-csrf-xsrf-vulnerability/
   #github: username/repository
   quote: >
-    Cross Site Scripting ‘XSS’ in a Nutshell - Security Paper, published by the well known exploits and security papers archive: 'Exploit-DB' by OffSec 'Offensive Security, LTD'.
+    Cross-site request forgery [CSRF], also known as “one-click attack” or session riding or Sea-Surf and abbreviated as CSRF or XSRF, is a type of malicious attack exploit of a website (“Web Application”); where unauthorized commands are transmitted from a user that the website trusts.
   #description: | # this will include new lines to allow paragraphs
   #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
 
 - layout: top-middle
-  name: Cross Site Scripting ‘XSS’ in a Nutshell
-  link: https://dl.packetstormsecurity.net/papers/general/xss-in-a-nutshell.pdf
+  name: How to Hack: The Full Penetration Testing Process
+  link: https://www.cybrary.it/blog/0p3n/hack-full-penetration-testing-process/
   #github: username/repository
   quote: >
-    Cross Site Scripting ‘XSS’ in a Nutshell - Security Paper, published by the well known exploits and security papers archive: 'Exploit-DB' by OffSec 'Offensive Security, LTD'.
+  #  Cross Site Scripting ‘XSS’ in a Nutshell - Security Paper, published by the well known exploits and security papers archive: 'Exploit-DB' by OffSec 'Offensive Security, LTD'.
   #description: | # this will include new lines to allow paragraphs
   #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
 
 - layout: top-middle
-  name: Cross Site Scripting ‘XSS’ in a Nutshell
-  link: https://dl.packetstormsecurity.net/papers/general/xss-in-a-nutshell.pdf
+  name: Game of Thrones CTF — Walkthrough
+  link: https://medium.com/@MrTaharAmine/game-of-thrones-ctf-walkthrough-4bc27aaaca09
   #github: username/repository
   quote: >
-    Cross Site Scripting ‘XSS’ in a Nutshell - Security Paper, published by the well known exploits and security papers archive: 'Exploit-DB' by OffSec 'Offensive Security, LTD'.
+  #  Cross Site Scripting ‘XSS’ in a Nutshell - Security Paper, published by the well known exploits and security papers archive: 'Exploit-DB' by OffSec 'Offensive Security, LTD'.
   #description: | # this will include new lines to allow paragraphs
   #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
 
 - layout: top-middle
-  name: Cross Site Scripting ‘XSS’ in a Nutshell
-  link: https://dl.packetstormsecurity.net/papers/general/xss-in-a-nutshell.pdf
+  name: Enum 150 Writeup - TamuCTF 2k18
+  link: https://mrtaharamine.blogspot.com/2018/02/enum-150-writeup-tamuctf-2k18.html
   #github: username/repository
   quote: >
-    Cross Site Scripting ‘XSS’ in a Nutshell - Security Paper, published by the well known exploits and security papers archive: 'Exploit-DB' by OffSec 'Offensive Security, LTD'.
+    Texas A&M University CTF (TamuCTF) event was really one of the best CTFs, most of the challenges are realistic and I like that. In this writeup we will see the solution of the best challenge of this whole CTF contest. Honestly, it was like a PenTest challenge and not just a simple CTF one.
   #description: | # this will include new lines to allow paragraphs
   #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
-
-- layout: top-middle
-  name: Cross Site Scripting ‘XSS’ in a Nutshell
-  link: https://dl.packetstormsecurity.net/papers/general/xss-in-a-nutshell.pdf
-  #github: username/repository
-  quote: >
-    Cross Site Scripting ‘XSS’ in a Nutshell - Security Paper, published by the well known exploits and security papers archive: 'Exploit-DB' by OffSec 'Offensive Security, LTD'.
-  #description: | # this will include new lines to allow paragraphs
-  #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
-
